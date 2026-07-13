@@ -1,2 +1,32 @@
-# Proyecto-2MB
-Este proyecto consiste en desarrollar un sistema en Java que permita gestionar el préstamo de equipos tecnológicos dentro de la UTU.
+NombreDelProyecto/
+│
+├── pom.xml
+│
+├── src/
+│   │
+│   ├── main/
+│   │   │
+│   │   ├── java/
+│   │   │   │
+│   │   │   └── uy/
+│   │   │       └── edu/
+│   │   │           └── utu/
+│   │   │               └── programacion/
+│   │   │                   │
+│   │   │                   ├── Main.java
+│   │   │                   │
+│   │   │                   ├── model/
+│   │   │                   │
+│   │   │                   ├── view/
+│   │   │                   │
+│   │   │                   ├── dao/
+│   │   │                   │
+│   │   │                   └── service/
+│   │   │
+│   │   └── resources/
+│   │
+│   └── test/
+│       │
+│       ├── java/
+│       │
+│       └── resources/
